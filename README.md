@@ -1,2 +1,2 @@
-# Django-CRUD-REST-API
-The purpose of the application is to provide REST APIs for a resource (at your own choice) following the CRUD principles.
+# Django_CRUD_REST_API
+The purpose of the web application is to provide REST APIs for Notes following the CRUD principles.
